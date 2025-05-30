@@ -33,12 +33,12 @@ This project turns everyday waste into a green solution by using standard KCups 
 
 ## 📦 Files
 
-- `kcup_garden_base.stl` – Single-layer planter module  
-- `kcup_module_preview.png` – Rendered concept view
+- Design Folder – Single-layer planter module .stl file 
+- Design Folder – Rendered concept view
 
 ## 📸 Preview
 
-![KCup Garden Preview](kcup_module_preview.png)
+Design Folder
 
 ## 💡 Inspiration
 
